@@ -19,6 +19,7 @@
     // Do any additional setup after loading the view.
     
     NSLog(@"This is a new Test File");
+    NSLog(@"Andy's Changes");
 }
 
 - (void)didReceiveMemoryWarning {
